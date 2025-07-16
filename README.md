@@ -15,7 +15,8 @@ Customer retention is a critical challenge in the telecom sector. High churn rat
 ## 🛠️ Tools & Technologies Used
 
 `MySQL`, `python`, `power BI`
-Libraries - `sns`, `pandas`, `numpy`, `matplotlib`, `sqlalchemy`, `sklearn`
+
+Libraries - `seaborn`, `pandas`, `numpy`, `matplotlib`, `sqlalchemy`, `sklearn`
 
 ## 🔄 Process Flow Summary
 
