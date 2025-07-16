@@ -121,11 +121,15 @@ Predicted churners from "Joined" customers and stored in `churn_prediction` tabl
   - Tamil Nadu: 37  
 
 ---
+<img width="1475" height="824" alt="image" src="https://github.com/user-attachments/assets/26ee55dd-ff36-4efa-b336-711b60a23acf" />
+
+<img width="1474" height="823" alt="image" src="https://github.com/user-attachments/assets/a3969aa7-83d1-4dc9-b46e-f7f9f94e9c94" />
+
 
 ## 🔎 Key Insights Summary
 
 - **Who churns the most**:
-  - Feale customers  
+  - Female customers  
   - Older age groups (>60)  
   - Month-to-month contracts  
   - Mailed check payments  
@@ -136,11 +140,12 @@ Predicted churners from "Joined" customers and stored in `churn_prediction` tabl
 
 ---
 
+
 ## ✅ Recommendations & Action Plan
 
 1. **Loyalty Campaigns**: Target >24-month customers with exclusive offers  
 2. **Contract Lock-ins**: Offer discounts on 1- or 2-year contracts  
-3. **Upselling Services**: Promote Online Security, Device Protection, Streaming  
+3. **Upselling Services**: Promote internet services, phone sevices, paperless billing  
 4. **Payment Preferences**: Encourage digital methods with cashback offers  
-5. **Location-Specific Marketing**: Focus on J&K, Assam, and Jharkhand  
-6. **Customer Support for Elderly**: Launch personalized guidance programs  
+5. **Location-Specific Marketing**: Focus on J&K, Assam, and Jharkhand, Uttar Pradesh  
+6. **Customer Support for Elderly**: Elderly are seen to churn the most. Launch personalized guidance programs for elderly
